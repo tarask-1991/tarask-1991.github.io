@@ -1,0 +1,16 @@
+
+
+@mixin how-dreamshare-works-block ($w, $h, $f){
+    width: 236px;
+    height: 400px;
+    float: left;
+}
+
+@mixin partners-block ($f, $l, $t, $r) {
+
+    float: left;
+    margin-left: 255px;
+    margin-top: 2px;
+    margin-right: 20px; 
+    
+}
